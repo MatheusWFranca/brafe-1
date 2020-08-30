@@ -1,8 +1,10 @@
 <h1> Brafé ☕️ </h1>
 
-<h2>Brafé é um projeto realizado pela Origamid, sendo o Grid Layout sua principal ferramenta. </h2>
+<h3>Brafé é um projeto realizado pela Origamid, sendo o Grid Layout sua principal ferramenta. </h3>
 
 <p align="center">
+
+
 
 ## Layout
 <img src="https://user-images.githubusercontent.com/61566949/91668341-f6980600-eac0-11ea-90d8-0f89fa84a1c0.png" max-width="700">
